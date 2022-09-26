@@ -1,5 +1,5 @@
 # devops class
-Learrning git from github
+Learning git from github
 git init: to initialize an empty repository
 
 git clone <repo url>: to clone the remote repository into local repository
